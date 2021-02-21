@@ -10,4 +10,3 @@ Dagen kommer til at stå på følgende:
 |14.15-14.30| Pause med forfriskning |
 |14.30-16.00| Deep Learning          |
 |16.00-16.30| Om studiet             |
---------------------------------------
