@@ -19,7 +19,9 @@ Ressourcer:
  - Deep learning slides: 
 
 Opgaverne er Jupyter notebooks hosted i Googles Colaboratory. Du skal starte med at kopiere den til dit eget Google drive:
+
 File -> Save a copy in Drive
+
 Du skal have en Google konto.
 ---
 [test] (https://youtube.com)
