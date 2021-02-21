@@ -25,5 +25,6 @@ File -> Save a copy in Drive
 Du skal have en Google konto.
 
 ---
-
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+Forslag til yderligere materiale om Python hvis du vil lære mere:
+ - [Pythons offiecielle dokumentation](https://github.com/user/repo/blob/branch/other_file.md)
+ - En god bog om Python (kan hentes gratis i PDF-format eller læses online): [Allen B. Downey, 2015. Think Python: How to Think Like a Computer Scientist, 2nd Edition. Green Tea Press.](https://greenteapress.com/wp/think-python-2e/)
