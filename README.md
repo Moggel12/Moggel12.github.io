@@ -24,7 +24,7 @@ File -> Save a copy in Drive
 
 Du skal have en Google konto.
 
-[test] (https://youtube.com)
+[test] /(https://youtube.com)
 
 ---
 
