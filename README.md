@@ -5,12 +5,12 @@ Dagen kommer til at stå på følgende:
 
 | Tid       | Beskæftigelse          |
 |-----------|------------------------|
-|11.00-12.00| Programmering i Python |
-|12.00-12.45| Frokost                |
-|12.45-14.15| Programmering i Python |
-|14.15-14.30| Pause                  |
-|14.30-16.00| Deep Learning          |
-|16.00-16.30| Om studiet             |
+|11.30-12.30| Programmering i Python | 
+|12.30-13.15| Frokost                | 
+|13.15-14.45| Programmering i Python | 
+|14.45-15.00| Pause                  | 
+|15.00-16.30| Deep Learning          | 
+|16.30-17.00| Om studiet             | 
 
 Ressourcer:
  - [Python slides](https://docs.google.com/presentation/d/18u0KT4b8ApNQVm259XVZIlCK0vHB6GWnjk3dLcNc9h8/edit?usp=sharing)
